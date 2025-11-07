@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 08f52aeac71b0794c9d810969bb5935d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5387228866925013373
+    second: ClickWillText_0
+  - first:
+      213: 5167295911453232323
+    second: ClickWillText_1
+  - first:
+      213: -2122796255442447644
+    second: ClickWillText_2
+  - first:
+      213: -5920780178396929438
+    second: ClickWillText_3
+  - first:
+      213: 3670812741158795002
+    second: ClickWillText_4
+  - first:
+      213: -7876886134190765773
+    second: ClickWillText_5
+  - first:
+      213: -6437189226883613610
+    second: ClickWillText_6
+  - first:
+      213: 2075352793932920448
+    second: ClickWillText_7
+  - first:
+      213: -2595235791098034230
+    second: ClickWillText_8
+  - first:
+      213: -3394749827588928807
+    second: ClickWillText_9
+  - first:
+      213: -8747689379802321237
+    second: ClickWillText_10
+  - first:
+      213: -4795696890979467438
+    second: ClickWillText_11
+  - first:
+      213: -9064052744843087135
+    second: ClickWillText_12
+  - first:
+      213: 8195632053907679908
+    second: ClickWillText_13
+  - first:
+      213: 5324827290347247952
+    second: ClickWillText_14
+  - first:
+      213: -618794922826294285
+    second: ClickWillText_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClickWillText_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 342
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386543763e7bc35b0800000000000000
+      internalID: -5387228866925013373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 346
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc8f73014ce5b740800000000000000
+      internalID: 5167295911453232323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 340
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2d2df7d005a82e0800000000000000
+      internalID: -2122796255442447644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 342
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2622a712cc925dda0800000000000000
+      internalID: -5920780178396929438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 346
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af67fb14db851f230800000000000000
+      internalID: 3670812741158795002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 346
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3390c536bcdafa290800000000000000
+      internalID: -7876886134190765773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 346
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c71abf0828aa6a0800000000000000
+      internalID: -6437189226883613610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 346
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0867cf1de522dcc10800000000000000
+      internalID: 2075352793932920448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 340
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c8335ccedbfbd0800000000000000
+      internalID: -2595235791098034230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 344
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da4e39940d63e0d0800000000000000
+      internalID: -3394749827588928807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_10
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 346
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeec673bd6f99680800000000000000
+      internalID: -8747689379802321237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 346
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f39ba1613427db0800000000000000
+      internalID: -4795696890979467438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 346
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2393e4d04063280800000000000000
+      internalID: -9064052744843087135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_13
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 340
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aae8f24eebbcb170800000000000000
+      internalID: 8195632053907679908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 344
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059147b553695e940800000000000000
+      internalID: 5324827290347247952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClickWillText_15
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 346
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb9f14db499967f0800000000000000
+      internalID: -618794922826294285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClickWillText_0: -5387228866925013373
+      ClickWillText_1: 5167295911453232323
+      ClickWillText_10: -8747689379802321237
+      ClickWillText_11: -4795696890979467438
+      ClickWillText_12: -9064052744843087135
+      ClickWillText_13: 8195632053907679908
+      ClickWillText_14: 5324827290347247952
+      ClickWillText_15: -618794922826294285
+      ClickWillText_2: -2122796255442447644
+      ClickWillText_3: -5920780178396929438
+      ClickWillText_4: 3670812741158795002
+      ClickWillText_5: -7876886134190765773
+      ClickWillText_6: -6437189226883613610
+      ClickWillText_7: 2075352793932920448
+      ClickWillText_8: -2595235791098034230
+      ClickWillText_9: -3394749827588928807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

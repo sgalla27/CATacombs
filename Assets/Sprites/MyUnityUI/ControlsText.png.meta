@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 0a583dd02d1573047814adac76e951ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 106395889657268295
+    second: ControlsText_0
+  - first:
+      213: -8374972659267034511
+    second: ControlsText_1
+  - first:
+      213: 4063957715303404857
+    second: ControlsText_2
+  - first:
+      213: -36036605178000550
+    second: ControlsText_3
+  - first:
+      213: -7401239147023570092
+    second: ControlsText_4
+  - first:
+      213: -7545337651264750171
+    second: ControlsText_5
+  - first:
+      213: 4429224463160531004
+    second: ControlsText_6
+  - first:
+      213: -1496466846540329295
+    second: ControlsText_7
+  - first:
+      213: -1623319178333583622
+    second: ControlsText_8
+  - first:
+      213: 4995157960649966972
+    second: ControlsText_9
+  - first:
+      213: -2485942017959435950
+    second: ControlsText_10
+  - first:
+      213: -4393032491217521634
+    second: ControlsText_11
+  - first:
+      213: 2707478750225822230
+    second: ControlsText_12
+  - first:
+      213: -3562580309349662547
+    second: ControlsText_13
+  - first:
+      213: -4839676102880379363
+    second: ControlsText_14
+  - first:
+      213: -326675517329126164
+    second: ControlsText_15
+  - first:
+      213: -7971044540857616840
+    second: ControlsText_16
+  - first:
+      213: 4908735192373452664
+    second: ControlsText_17
+  - first:
+      213: -3144194170714960379
+    second: ControlsText_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ControlsText_0
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 589
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74845987f7ef97100800000000000000
+      internalID: 106395889657268295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 589
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172a7c82dbe16cb80800000000000000
+      internalID: -8374972659267034511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 589
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9351ed2a204166830800000000000000
+      internalID: 4063957715303404857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 589
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b447506e8ff7ff0800000000000000
+      internalID: -36036605178000550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 589
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be1ff8534894990800000000000000
+      internalID: -7401239147023570092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 589
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adfbf11263994790800000000000000
+      internalID: -7545337651264750171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 589
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c385725ae24c77d30800000000000000
+      internalID: 4429224463160531004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 589
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be80d9e45b7b3be0800000000000000
+      internalID: -1496466846540329295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 589
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6095adecfc879e0800000000000000
+      internalID: -1623319178333583622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 585
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75818123bd525540800000000000000
+      internalID: 4995157960649966972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 589
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516f4fd7e8208dd0800000000000000
+      internalID: -2485942017959435950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 589
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14fa3a7930d803c0800000000000000
+      internalID: -4393032491217521634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_12
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 589
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612f0281495e29520800000000000000
+      internalID: 2707478750225822230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 589
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da08961851c2f8ec0800000000000000
+      internalID: -3562580309349662547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 589
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e3ed3e93406dcb0800000000000000
+      internalID: -4839676102880379363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 589
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecc7c8095a677bf0800000000000000
+      internalID: -326675517329126164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_16
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 589
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8367d55f839216190800000000000000
+      internalID: -7971044540857616840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_17
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 598
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fd0ed56a45f1440800000000000000
+      internalID: 4908735192373452664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ControlsText_18
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 589
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e4ea57f049d54d0800000000000000
+      internalID: -3144194170714960379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ControlsText_0: 106395889657268295
+      ControlsText_1: -8374972659267034511
+      ControlsText_10: -2485942017959435950
+      ControlsText_11: -4393032491217521634
+      ControlsText_12: 2707478750225822230
+      ControlsText_13: -3562580309349662547
+      ControlsText_14: -4839676102880379363
+      ControlsText_15: -326675517329126164
+      ControlsText_16: -7971044540857616840
+      ControlsText_17: 4908735192373452664
+      ControlsText_18: -3144194170714960379
+      ControlsText_2: 4063957715303404857
+      ControlsText_3: -36036605178000550
+      ControlsText_4: -7401239147023570092
+      ControlsText_5: -7545337651264750171
+      ControlsText_6: 4429224463160531004
+      ControlsText_7: -1496466846540329295
+      ControlsText_8: -1623319178333583622
+      ControlsText_9: 4995157960649966972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

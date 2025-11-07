@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dfa08f8a354141a7b9277efbcbb188d, type: 3}
+  m_Name: skeletonDialogue
+  m_EditorClassIdentifier: 
+  npcName: Skeleton
+  npcPortrait: {fileID: -7527145504033472756, guid: be5cff9f4b26943baa0689ab25b2a891, type: 3}
+  dialogueLines:
+  - Hello traveler, what brings you to these depths...
+  - monsters lurk behind the shadows
+  - beware or else...
+  - you may not make it out alive
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 3334dbc7a93924493a96b99426256fd0, type: 3}
+  voicePitch: 1
+  autoProgressLines: 01010100
+  autoProgressDelay: 1.5
